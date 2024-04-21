@@ -1,2 +1,2 @@
 # snakeGamePython
- Minha implementação do famoso jogo da cobrinha utilziando a biblioteca pygame
+ Minha implementação do famoso jogo da cobrinha utilizando a biblioteca pygame
